@@ -1,1 +1,12 @@
-This is a repository for a final project for AIFFEL, a digital AI learning platform based in Seoul. 
+아이펠 교육과정의 일환으로 파이널 프로젝트를 위한 리포입니다.
+
+# 프로젝트 개요: 
+- 딥러닝 모델 빌딩 연습하기
+- 의료 영상이미지 사용해보기 
+
+## 데이터: 
+- 캐글 (https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images)
+- 논문에서 사용되었거나 라이센스가 있지 않아서 조금 의심쩍인 부분이 있다. 데이터가 수집된 날짜, 나이, 대략적인 지역, 환자의 나이, 성별, 인종 등 정보가 부재하다. 하지만 뇌 MRI 이미지를 다른 방법으로 획득하기 어려워서 사용해보기로 뒤늦게 결정했다. 
+- 4개의 클래스 (Non, Very Mild, Mild, Moderate)의 클래스로 이루어져 있다. 
+
+
