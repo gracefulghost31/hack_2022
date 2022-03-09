@@ -6,7 +6,7 @@
 
 ## 데이터: 
 - 캐글 (https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images)
-- 논문에서 사용되었거나 라이센스가 있지 않아서 조금 의심쩍인 부분이 있다. 데이터가 수집된 날짜, 나이, 대략적인 지역, 환자의 나이, 성별, 인종 등 정보가 부재하다. 하지만 뇌 MRI 이미지를 다른 방법으로 획득하기 어려워서 사용해보기로 뒤늦게 결정했다. 
+- 논문에서 사용되었거나 라이센스가 있지 않아서 조금 의심쩍인 부분이 있다. 데이터가 수집된 날짜, 나이, 대략적인 지역, 환자의 나이, 성별, 인종 등 정보가 부재하다. 하지만 넓게는 의료 영상 그리고 치매라는 주제에 관심이 있었고, 뇌 MRI 이미지를 다른 방법으로 획득하기 어려워서 사용해보기로 뒤늦게 결정했다. 
 - 4개의 클래스 (Non, Very Mild, Mild, Moderate)의 클래스로 이루어져 있다. 
 - 'data'는 Kaggle에서 다운받은 그대로의 파일이고, 프로젝트를 위해서 'dataa'는 임의로 레이블링을 거친 것이다. 
   - dataa 폴더 안에 training과 test폴더가 있고 그 안에 각각 NonDemented, VeryMildDemented, MildDemented, ModerateDemented가 있다. 
